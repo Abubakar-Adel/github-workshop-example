@@ -1,1 +1,8 @@
 Hello git
+things we did:
+git init
+git remmote add origins https\\...git
+git status
+git add example.txt
+git commit -m 'massage'
+git push origins
